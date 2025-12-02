@@ -1,0 +1,6 @@
+customtkinter
+reportlab
+pdfrw
+openpyxl
+num2words
+PyPDF2
