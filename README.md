@@ -20,31 +20,27 @@ This project is built using **Python** with a structured folder architecture to 
 
 ## 📂 Project Structure
 
-```
-
-Master on Billing Application/
-│
-├── Excel Handler/
-│   ├── ExcelManager.py        # Handles Excel read/write operations
-│   └── FillTemplate.py        # Fills the bill template with user input
-│
-├── Excel Template/
-│   └── BillTemplate.xlsx      # Predefined bill template
-│
-├── GUI/
-│   └── (GUI-related Python files)
-│       # All UI logic and layouts
-│
-├── Output/
-│   ├── record.xlsx            # Central billing record file
-│   └── (Generated bills)
-│       # Excel and PDF bills are stored here
-│
-├── main.py                    # Entry point to run the application
-├── requirements.txt           # Project dependencies
-├── README.md                  # Project documentation
-
-````
+    Master on Billing Application/
+    │
+    ├── Excel Handler/
+    │   ├── ExcelManager.py        # Handles Excel read/write operations
+    │   └── FillTemplate.py        # Fills the bill template with user input
+    │
+    ├── Excel Template/
+    │   └── BillTemplate.xlsx      # Predefined bill template
+    │
+    ├── GUI/
+    │   └── (GUI-related Python files)
+    │       # All UI logic and layouts
+    │
+    ├── Output/
+    │   ├── record.xlsx            # Central billing record file
+    │   └── (Generated bills)
+    │       # Excel and PDF bills are stored here
+    │
+    ├── main.py                    # Entry point to run the application
+    ├── requirements.txt           # Project dependencies
+    └── README.md                  # Project documentation
 
 ---
 
@@ -75,49 +71,35 @@ Master on Billing Application/
 ## 📦 Installation
 
 ### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/master-on-billing-application.git
-cd master-on-billing-application
-````
+    git clone https://github.com/your-username/master-on-billing-application.git
+    cd master-on-billing-application
 
 ### 2️⃣ Install Dependencies
-
-Make sure Python is installed, then run:
-
-```bash
-pip install -r requirements.txt
-```
+    pip install -r requirements.txt
 
 > ⚠️ **Note:** `pywin32` requires Microsoft Excel to be installed on Windows.
 
 ---
 
 ## ▶️ Running the Application
-
-```bash
-python main.py
-```
+    python main.py
 
 The GUI will launch, allowing billing staff to start generating bills.
 
 ---
 
 ## 🏢 Organization
-
 This application was developed specifically for **Masoom** to streamline and digitize their billing operations.
 
 ---
 
 ## 📬 Contact
-
 For any questions or suggestions, feel free to reach out:
 
-* 📧 Email: [adityanishad98196@gmail.com](mailto:adityanishad98196@gmail.com)
-* 💼 LinkedIn: [https://www.linkedin.com/in/aditya-nishad-938403330/](https://www.linkedin.com/in/aditya-nishad-938403330/)
+- 📧 Email: adityanishad98196@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/aditya-nishad-938403330/
 
 ---
 
-⭐ *If you find this project useful, consider giving it a star!*
-
-```
+⭐ If you find this project useful, consider giving it a star!
 ```
