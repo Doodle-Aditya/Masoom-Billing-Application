@@ -1,4 +1,3 @@
-```md
 # Master on Billing Application
 
 ## 📌 Overview
@@ -102,4 +101,3 @@ For any questions or suggestions, feel free to reach out:
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
-```
